@@ -1,6 +1,7 @@
 ---
 title: Dr. Giuseppe Casalicchio
 role: Interpretable Machine Learning Researcher
+avatar_filename: giuseppe.jpg
 bio: My research interests include interpretable machine learning methods
 interests:
   - Interpretable Machine Learning
