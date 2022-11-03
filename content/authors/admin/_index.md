@@ -49,8 +49,4 @@ email: ""
 ---
 I explore, consolidate and develop interpretable machine learning approaches with a strong focus on model-agnostic interpretation methods for tabular data.
 
-<﻿!--
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
-
-\-﻿->
